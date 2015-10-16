@@ -1,4 +1,4 @@
-# simple practical morph analyzer and samAsa parser for Sanskrit
+# text to speech processing for Sanskrit
 
 absolutely experimental !
 
